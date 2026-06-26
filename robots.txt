@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seusiteuniube.com.br/sitemap.xml
+Sitemap: https://vitoraugustorm.github.io/sitemap.xml
